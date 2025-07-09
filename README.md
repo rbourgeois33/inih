@@ -1,4 +1,4 @@
-# inih (INI Not Invented Here)
+# inih (INI Not Invented Here), @Rémi: forked to add a cmake build option
 
 [![Tests](https://github.com/benhoyt/inih/actions/workflows/tests.yml/badge.svg)](https://github.com/benhoyt/inih/actions/workflows/tests.yml)
 
